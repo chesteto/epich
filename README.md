@@ -1,2 +1,2 @@
 # epich
-Epich Antichat amı götü dagıttı
+Epich Antichat 
